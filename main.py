@@ -13,6 +13,9 @@ def sumar(a, b):
 
 def restar(a, b):
 	return a - b
+
+def multiplciar(a ,b):
+	return a * b
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     print_hi('HOLA MUNDO')
