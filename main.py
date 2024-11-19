@@ -10,6 +10,8 @@ def multiplicar(a ,b):
 
 def dividir(a, b):
 	return a / b
+def potenciar(a, b):
+	return a ** b
 
 if __name__ == '__main__':
 	n1 = 5
